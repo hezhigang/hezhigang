@@ -14,12 +14,6 @@
 </p>
 
 <p align="center">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hezhigang&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hezhigang&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121" />
-</a>
-</p>
-
-<p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=hezhigang&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121">
     <img src="https://github-readme-stats.vercel.app/api?username=hezhigang&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121" /> 
   </a>
