@@ -2,7 +2,7 @@
 
 # 🗝️ About Me
 
-- 🧑‍💻 Java Back-End Developer
+- 🧑‍💻 full-stack Developer
 - 💼 Currently looking for job
 
 # 📉 My Stats
