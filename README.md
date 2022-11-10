@@ -2,8 +2,8 @@
 
 # 🗝️ About Me
 
-- 🧑‍💻 full-stack Developer
-- 💼 Currently looking for job
+- 🧑‍💻 Junior Developer
+- 💼 Currently, a student in the Application Developer program at [triOS](https://www.trios.com/) College, preparing for an internship
 
 # 📉 My Stats
 
