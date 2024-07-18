@@ -2,7 +2,7 @@
 
 # 🗝️ About Me
 
-- 🧑‍💻 Junior Full-Stack Developer
+- 🧑‍💻 Application Developer
 
 # 📉 My Stats
 
